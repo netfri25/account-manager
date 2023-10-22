@@ -1,4 +1,4 @@
-# account-manager
+# Account Manager
 You definitely shouldn't use it
 
 ### Inspiration
